@@ -1,0 +1,18 @@
+{
+  "receptor_file_path": "/home/data/123/xyz/receptor.pdbqt",
+  "unfiltered_smi_file_path" : "/home/data/123/xyz/ligands.smi",
+  "ligands_csv_file_path": "/home/data/123/xyz/ligands.csv",
+  "config_file_path": "/home/data/123/xyz/config.txt",
+  "ligands_per_batch": 128,
+  "vina_exec_file_path": "/home/data/123/xyz/vina",
+  "pdbqt_output_directory": "/home/data/123/xyz/ligdir",
+  "smiles_file_path" : "/home/data/123/xyz/abc.smi",
+  "sdf_file_path" : "/home/data/123/xyz/abc.sdf",
+  "center_x": 0,
+  "center_y": 0,
+  "center_z": 0,
+  "size_x": 10,
+  "size_y": 10,
+  "size_z": 10,
+  "cpu": 8
+}
