@@ -8,11 +8,11 @@
   "pdbqt_output_directory": "/home/data/123/xyz/ligdir",
   "smiles_file_path" : "/home/data/123/xyz/abc.smi",
   "sdf_file_path" : "/home/data/123/xyz/abc.sdf",
-  "center_x": 0,
-  "center_y": 0,
-  "center_z": 0,
-  "size_x": 10,
-  "size_y": 10,
-  "size_z": 10,
+  "center_x": 120,
+  "center_y": 150,
+  "center_z": 100,
+  "size_x": 20,
+  "size_y": 20,
+  "size_z": 20,
   "cpu": 8
 }
