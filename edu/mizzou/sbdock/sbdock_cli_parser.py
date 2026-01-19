@@ -94,7 +94,7 @@ class ValidateAndInvoke():
 class FunctionNames(str, Enum):
     gen_config = 'generateConfig'
     filter = 'filterMolecules'
-    preo_docking = 'prepareDocking'
+    prep_docking = 'prepareDocking'
     proc_pdbqt_file = 'processPdbqtOutput'
     convert_csv_smiles_to_pdbqt = 'convertCSVSmilesToPDBQT'
     convert_smiles_to_3d_sdf = 'convertSmilesTo3dSDF'
@@ -108,7 +108,7 @@ def main():
     """
     json_content = {}
     parser = argparse.ArgumentParser()
-    parser.add_argument("-f", "--function_name",  required=True, type=FunctionNames, choices=[function_name.value for function_name in FunctionNames])
+    parser.add_argument("-f", "--function_name",  required=True, type=FunctionNames, choices=[color.value for color in FunctionNames])
     parser.add_argument("-jf", "--json_file_name", required=False, type=str)
     parser.add_argument("-js", "--json_file_string", required=False, type=str)
     args = parser.parse_args()
