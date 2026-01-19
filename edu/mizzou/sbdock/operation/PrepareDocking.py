@@ -22,7 +22,7 @@ import os
 import csv
 
 class PrepareDocking:
-    def __init__(self, config_file_path, ligands_csv_file_path, vina_exec_file_path):
+    def __init__(self, config_file_path, ligands_csv_file_path, vina_exec_file_path, ligands_per_batch):
         """ sets the constructor variable values
             **Arguments**
               -config_file_path: The path to the config file with additional information for executing Vina. See GenerateConfig module.
