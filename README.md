@@ -8,7 +8,7 @@ The Slurm Batch Vina Docking library is designed to optimize docking Vina in clu
 
 ## Installation and getting started
 
-If you are working in Python and using conda (our recommendation), installation is super easy:
+If you are working in Python you can git download this repo code.
 
 ```shell-session
 $ conda install sbdock
@@ -17,6 +17,4 @@ $ conda install sbdock
 
 Available on the github page and in comments in the python files containing the modules
 
-### Generate Config file
 
-Once the vina docking values are 
