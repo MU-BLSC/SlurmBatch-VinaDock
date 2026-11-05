@@ -17,4 +17,10 @@ $ conda install sbdock
 
 Available on the github page and in comments in the python files containing the modules
 
+## Presentation at American Chemical Society - Oct 2025
 
+The Slide along with the project has been explained in this YoutTube Video - [https://youtu.be/2gXmpTqhYr8](https://youtu.be/2gXmpTqhYr8)
+
+[![Youtube Video](https://github.com/MU-BLSC/SlurmBatch-VinaDock/blob/main/RagaVishagan.ACS.OCT.2025.jpeg)(https://youtu.be/2gXmpTqhYr8)
+
+[![Linked in URL](https://lnkd.in/p/gi3XTKA3)]
