@@ -23,4 +23,4 @@ The Slide along with the project has been explained in this YoutTube Video - [ht
 
 [![Youtube Video](https://github.com/MU-BLSC/SlurmBatch-VinaDock/blob/main/RagaVishagan.ACS.OCT.2025.jpeg)(https://youtu.be/2gXmpTqhYr8)
 
-[![Linked in URL](https://lnkd.in/p/gi3XTKA3)]
+Project Mentor and members are credited here [![Linked in URL](https://lnkd.in/p/gi3XTKA3)]
